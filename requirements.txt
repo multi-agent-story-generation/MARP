@@ -1,0 +1,5 @@
+tenacity==8.2.2
+openai==0.28
+litellm~=1.16.16
+# For gemini pro:
+google-cloud-aiplatform
